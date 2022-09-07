@@ -1,0 +1,72 @@
+h1 {color: black;
+    font-family: Lato;
+    font-size: 50px;
+    font-weight: normal;
+    letter-spacing: 2px;
+    line-height: 10px;
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 0px;}
+
+h2 {color: black;
+    font-family: Lato;
+    font-size: 35px;
+    font-weight: normal;
+    text-align: center;}
+
+body {background-color: #ff9abc;
+    color: black;
+    font-family: Lato;
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 30px;
+    text-align: center;
+    letter-spacing: 1px;}
+
+li {display: inline;
+     margin-right: 30px;
+    margin-left: 30px}
+
+ul {font-family: sans-serif;
+    color: white;
+    font-weight: bold;
+    margin: 40px;}
+
+p {padding: 15px;}
+
+a:link {color: white;
+        text-decoration: none; 
+        background-color: rgb(0, 0, 0);
+        padding: 10px;
+        padding-left: 30px;
+        padding-right: 30px; }
+
+a:visited {color: white;}
+
+#container {width: 980px;
+            margin: 0px auto;
+            padding-top: 1px;
+            padding-bottom: 50px}
+
+.left {float: left;
+       margin: 15px}
+
+
+.right {float: right;
+        margin: 15px}
+
+.clear {clear: both}
+
+.twocolumn {width: 350px;
+            float: left;
+            height: auto;
+            margin: 15px}      
+
+
+
+#main-logo {width:200px;
+            height: 200px;
+            padding-top: 50px;}
+
+img.align-center {display: block;
+                  margin: 0px auto;}
